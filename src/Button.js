@@ -1,6 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 
+//very nice! this is basically perfect
 const Button = styled.button `
 width: ${props => props.large ? "50%" : "25%"};
 height: 100%;
