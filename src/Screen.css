@@ -1,0 +1,14 @@
+.screen {
+    height: 10vh;
+    width: 79%;
+    font-size: 3rem;
+    padding: 0 2rem;
+    overflow: hidden;
+    white-space: no-wrap;
+    color: black;
+    background-color:white;
+    border: 2px solid cyan;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+  }

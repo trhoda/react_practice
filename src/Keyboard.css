@@ -1,0 +1,11 @@
+.Keyboard {
+    height: 50vh;
+    width: 100%;
+}
+
+.Row {
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    background-color: antiquewhite;
+}
